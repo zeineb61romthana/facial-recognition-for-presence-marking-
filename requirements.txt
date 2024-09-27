@@ -1,0 +1,13 @@
+1.cv2:OpenCV (Open Source Computer Vision Library)
+Utilities: Provides functions for image manipulation such as resizing, cropping, and filtering.Facilitates object detection, facial recognition, and motion tracking.Allows capturing and processing video streams from cameras.
+
+2.face_recognition:A library built on top of dlib's facial recognition functionality.
+Provides simple APIs for face detection and recognition, making it easy to locate faces in images, encode facial features, and compare them.
+
+3.psycopg2:A PostgreSQL database adapter for Python.
+Enables Python programs to connect to PostgreSQL databases to perform database operations such as querying, inserting, updating, and deleting data.
+
+4.helper_functions:This is a custom module that Contains utility functions such as:
+fetch_employees: Likely used to retrieve employee data from a database.
+mark_attendance: Used to record attendance data for employees.
+calculate_working_hours: Used to calculate the total working hours based on attendance records.
