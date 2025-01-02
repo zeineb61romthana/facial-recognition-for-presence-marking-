@@ -2,6 +2,8 @@
 
 Welcome to the **Facial Recognition Attendance System**, a modern solution designed to streamline employee attendance tracking with facial recognition technology. Developed for **ProoSoft Cloud Company**, this application ensures accurate and efficient attendance management, minimizing manual processes and enhancing productivity.
 
+![Alt Text](DEMO_SHORT_GIF.gif)
+
 ## ✨ Features
 - **Real-time Facial Recognition**: Utilizes OpenCV and `face_recognition` to accurately identify employees.
 - **Attendance Marking**: Easily record **Check-In** and **Check-Out** times using intuitive buttons.
