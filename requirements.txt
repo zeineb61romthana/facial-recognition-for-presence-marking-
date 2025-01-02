@@ -2,3 +2,5 @@ cv2
 face_recognition
 psycopg2
 python
+Tkinter
+PILLOW
